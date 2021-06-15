@@ -21,7 +21,7 @@ import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
-public class prog1 {
+public class prog3 {
 /** The cloudlet list. */
 private static List<Cloudlet> cloudletList;
 /** The vmlist. */
