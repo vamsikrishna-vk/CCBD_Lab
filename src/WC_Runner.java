@@ -8,6 +8,7 @@ import org.apache.hadoop.mapred.JobClient;
 import org.apache.hadoop.mapred.JobConf;
 import org.apache.hadoop.mapred.TextInputFormat;
 import org.apache.hadoop.mapred.TextOutputFormat;
+
 public class WC_Runner {
     public static void main(String[] args) throws IOException{
         JobConf conf = new JobConf(WC_Runner.class);
